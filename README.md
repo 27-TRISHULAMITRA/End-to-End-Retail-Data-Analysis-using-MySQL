@@ -1,4 +1,4 @@
-# Retail Store Management System – MySQL Mini Project
+# End-to-End Retail Data Analysis using MySQL
 
 ## 📌 Project Overview
 This project is a *Retail Store Management System* developed using *MySQL*.  
